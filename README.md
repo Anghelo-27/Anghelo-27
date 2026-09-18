@@ -32,31 +32,23 @@
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anghelo-27&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anghelo-27&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anghelo-27&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Anghelo-27&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 </p>
 
 <br/>
 
 ### 🏆 Trofeos de GitHub
-![](https://github-profile-trophy.vercel.app/?username=Anghelo-27&theme=onedark&no-frame=true)
+![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=Anghelo-27&theme=onedark&no-frame=true)
 
 <br/>
 
 ### 🐍 Snake Activity Graph
-![](https://raw.githubusercontent.com/Anghelo-27/Anghelo-27/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Anghelo-27/Anghelo-27/output/github-contribution-grid-snake.svg)
 
 <br/>
 
 ### 👀 Visitantes de mi perfil:
-![Visitor Count](https://komarev.com/ghpvc/?username=Anghelo-27&color=blueviolet&style=flat-square)
-
-</div>
-  <img src="https://github-readme-stats.vercel.app/api?username=GiovanaFerreirah&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
-🔗 **Clique no botão ao lado para visualizar o meu perfil completo:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-usuario)
+![Visitantes](https://komarev.com/ghpvc/?username=Anghelo-27&color=7f5af0&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>

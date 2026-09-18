@@ -1,33 +1,57 @@
 <div align="left">
 
-# Oieeee, seja bem vindo(a) 👋
+# 🚀 Full Stack Developer | Tech ING.
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z2eXZ0ZnlsaXRyNW5vZXBvNmtveTF2bzFiNmh1Y3BldWFxbnhyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/134vIk3XvNXYvC/giphy.gif" width="300" align="right" alt="Ralph Wiggum Gif" />
+### 🧑‍💻 Sobre mí
 
-Me chamo **Giovana**, tenho 18 anos e moro em Florianópolis-SC! 🇧🇷
-
-* 👩‍💻 Desenvolvedora de software
-* 🎓 Técnica em desenvolvimento de sistemas
-* ✨ Venha me conhecer mais um pouco.
+- ⌛ **Actualmente estoy trabajando en:** Estud-IA
+- 🌱 **Estoy aprendiendo:** Machine Learning y entrenamiento de modelos.
+- 👨‍💻 **Busco colaborar en:** Proyectos Open Source / Desarrollos interesantes
+- 💬 **Pregúntame sobre:** JavaScript, React, Node.js, n8n, Hetzner, NextJS, TypeScript
+- ⚡ **Dato curioso:** Me gusta el mundo de las Startups
 
 <br/>
 
-## Tools i know ✨
+### 🛠️ Tecnologías y Herramientas
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+#### Lenguajes y Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+#### Herramientas y Bases de Datos
+![n8n](https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner-D00B0B?style=for-the-badge&logo=hetzner&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <br/>
+
+### 📊 Mis Estadísticas de GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanaFerreirah&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anghelo-27&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anghelo-27&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<br/>
+
+### 🏆 Trofeos de GitHub
+![](https://github-profile-trophy.vercel.app/?username=Anghelo-27&theme=onedark&no-frame=true)
+
+<br/>
+
+### 🐍 Snake Activity Graph
+![](https://raw.githubusercontent.com/Anghelo-27/Anghelo-27/output/github-contribution-grid-snake.svg)
+
+<br/>
+
+### 👀 Visitantes de mi perfil:
+![Visitor Count](https://komarev.com/ghpvc/?username=Anghelo-27&color=blueviolet&style=flat-square)
+
+</div>
   <img src="https://github-readme-stats.vercel.app/api?username=GiovanaFerreirah&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 

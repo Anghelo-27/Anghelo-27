@@ -1,16 +1,27 @@
-## Hi there 👋
+🚀 [Tu Rol / Descripción corta, ej: Full Stack Developer | Tech Enthusiast]
 
-<!--
-**Anghelo-27/Anghelo-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Sobre mí
 
-Here are some ideas to get you started:
+🔭 Actualmente estoy trabajando en Estud-IA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Estoy aprendiendo Machine Learning y entrenamiento de modelos. 
+
+👯 Busco colaborar en Proyectos Open Source / Desarrollos interesantes
+
+💬 Pregúntame sobre JavaScript, React, Node.js, n8n, Hetzner, NextJS, Typescritp
+
+⚡ Dato curioso: Me gusta el mundo del Startups
+
+🛠️ Tecnologías y Herramientas
+
+Lenguajes y Frameworks
+
+Herramientas y Bases de Datos
+
+📊 Mis Estadísticas de GitHub
+
+⚡ Trofeos de GitHub
+
+🎨 Snake Activity Graph
+
+👀 Visitantes de mi perfil:

@@ -1,4 +1,4 @@
-🚀 [Tu Rol / Descripción corta, ej: Full Stack Developer | Tech Enthusiast]
+🚀  Full Stack Developer | Tech ING.]
 
 👨‍💻 Sobre mí
 
